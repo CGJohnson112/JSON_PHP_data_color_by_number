@@ -1,0 +1,46 @@
+
+     [
+        {
+            "product":1,
+            "stock": 10,
+            "price": 10
+    
+        }, {
+            "product":2,
+            "stock": 0,
+            "price": 20
+    
+        }, {
+            "product":3,
+            "stock": 0,
+            "price": 15
+    
+        }, {
+            "product":4,
+            "stock": 20,
+            "price": 15
+    
+        }, {
+            "product":5,
+            "stock": 1,
+            "price": 25
+    
+        }, {
+            "product":6,
+            "stock": 7,
+            "price": 37
+    
+        }, {
+            "product":7,
+            "stock": 3,
+            "price": 19
+    
+        }, {
+            "product":8,
+            "stock": 30,
+            "price": 12
+    
+        }
+
+
+    ]
